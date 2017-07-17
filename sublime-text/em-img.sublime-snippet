@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<img src="$1"
+     alt=""
+     height="$3"
+     width="$2"
+     style="border: 0;
+            display: inline-block;
+            height: auto;">]]></content>
+  <tabTrigger>em-img</tabTrigger>
+</snippet>

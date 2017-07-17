@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[<!-- $1 -->
+<tr>
+  <th align="left"
+      valign="top"
+      style="font-size: 0;
+             font-weight: normal;
+             padding: 0;">
+
+    $2
+
+  </th>
+</tr>
+<!-- /$1 -->]]></content>
+  <tabTrigger>em-row</tabTrigger>
+</snippet>

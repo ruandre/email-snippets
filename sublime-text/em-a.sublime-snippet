@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<a href="$4"
+   style="color: $2;
+          text-decoration: $3;">
+  $1
+</a>]]></content>
+  <tabTrigger>em-a</tabTrigger>
+</snippet>

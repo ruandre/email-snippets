@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[<th align="left"
+    valign="top"
+    class="gap"
+    style="font-size: 0;
+           font-weight: normal;
+           padding: 0;">&nbsp;</th>]]></content>
+  <tabTrigger>em-td-gap</tabTrigger>
+</snippet>

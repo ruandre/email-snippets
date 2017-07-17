@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[<!-- $1 -->
+<tr>
+  <th align="left"
+      valign="top"
+      style="font-family: sans-serif, Roboto;
+             font-size: 16px;
+             font-weight: normal;
+             mso-line-height-rule: exactly;
+             line-height: 24px;
+             padding: 0;
+             word-wrap: break-word;">
+
+    $2
+
+  </th>
+</tr>
+<!-- /$1 -->]]></content>
+  <tabTrigger>em-row-txt</tabTrigger>
+</snippet>

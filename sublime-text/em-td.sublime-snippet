@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[<th align="left"
+    valign="top"
+    style="font-size: 0;
+           font-weight: normal;
+           padding: 0;">
+
+  $1
+
+</th>]]></content>
+  <tabTrigger>em-td</tabTrigger>
+</snippet>
