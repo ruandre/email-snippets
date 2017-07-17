@@ -9,7 +9,7 @@ Clone or download this repository and copy the contents of the `sublime-text` fo
 
 ## Usage
 
-Start with `em-qs`, then add `em-row` or `em-row-txt` for every horizontal section of the email design (name appropriately via the provided comments for organization). Try to keep to a single-column design with a fairly narrow width for best results. If you really need things next to each other (i.e. columns), avoid `colspan` by nesting tables instead.
+Start with `em-qs`, then add `em-row` or `em-row-txt` for every horizontal section of the email design (name appropriately via the provided comments for organization). Stick to a **single-column** design with a narrow width for best results. If you really need things next to each other (i.e. columns), avoid `colspan` by nesting tables instead.
 
 ### Tips:
 
