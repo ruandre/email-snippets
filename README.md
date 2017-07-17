@@ -9,7 +9,7 @@ Clone or download this repo and copy the contents of the `sublime-text` folder t
 
 ### Visual Studio Code
 
-Clone or download this repo and copy the contents of the `visual-studio-code` folder to `\User\snippets` in your [Visual Studio Code](https://code.visualstudio.com) directory (find via *File &rarr; Preferences &rarr; User Snippets* in menu, usually `\AppData\Roaming\Code` on Windows).
+Clone or download this repo and copy the contents of the `visual-studio-code` folder to `\User\snippets` in your [Visual&nbsp;Studio&nbsp;Code](https://code.visualstudio.com) directory (find via *File &rarr; Preferences &rarr; User Snippets* in menu, usually `\AppData\Roaming\Code` on Windows).
 
 ## Usage
 
