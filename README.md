@@ -13,9 +13,9 @@ Start with `em-qs`, then add `em-row` or `em-row-txt` for every horizontal secti
 
 ### Tips:
 
-* **When in doubt, nest deeper**
-* Only add negative space via padding on `<th>` elements (no margin)
-* Most styles will go inline on `<th>` elements; use these for *everything* including text (no `<p>`)
+* Use tables for *everything* (no `<div>`, `<p>`, etc.)
+* Only add negative space via padding on `<th>` elements (avoid margin)
+* Most styles will go inline on `<th>` elements
 * Avoid styles on `<tr>` elements
 * Explicitly define **width** on `<table>` elements
 * Explicitly define **width** and **height** on `<img>` elements
