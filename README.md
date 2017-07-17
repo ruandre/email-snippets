@@ -11,7 +11,7 @@ Clone or download this repository and copy the contents of the `sublime-text` fo
 
 Start with `em-qs`, then add `em-row` or `em-row-txt` for every horizontal section of the email design (name appropriately via the provided comments for organization). Stick to a **single-column** design with a narrow width for best results. If you really need things next to each other (i.e. columns), avoid `colspan` by nesting tables instead.
 
-**Note:** this approach results in a fixed-width layout everywhere media queries *aren't* supported, which ensures a reasonable result for **Gmail app** and **Outlook**. Use media queries to progressively enhance the experience where supported.
+This approach results in a fixed-width layout everywhere media queries *aren't* supported, which ensures a reasonable result for **Gmail app** and **Outlook**. Use media queries to progressively enhance the experience where supported.
 
 ### Tips:
 
