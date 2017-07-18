@@ -5,11 +5,11 @@ A collection of snippets I use for HTML email development.
 
 ### Sublime Text 3
 
-Clone or download this repo and copy the contents of the `sublime-text` folder to `\Data\Packages\User\Snippets` in your [Sublime&nbsp;Text&nbsp;3](https://www.sublimetext.com/3) directory (find via *Preferences &rarr; Browse Packages* in menu).
+Clone or download this repo and copy the contents of `sublime-text` to `\Data\Packages\User\Snippets` in your [Sublime&nbsp;Text&nbsp;3](https://www.sublimetext.com/3) directory (find via *Preferences &rarr; Browse Packages* in menu).
 
 ### Visual Studio Code
 
-Clone or download this repo and copy the contents of the `visual-studio-code` folder to `\User\snippets` in your [Visual&nbsp;Studio&nbsp;Code](https://code.visualstudio.com) directory (find via *File &rarr; Preferences &rarr; User Snippets* in menu, usually `\AppData\Roaming\Code` on Windows).
+Clone or download this repo and copy the contents of `visual-studio-code` to `\User\snippets` in your [Visual&nbsp;Studio&nbsp;Code](https://code.visualstudio.com) directory (find via *File &rarr; Preferences &rarr; User Snippets* in menu, usually `\AppData\Roaming\Code` on Windows).
 
 ## Usage
 
