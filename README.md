@@ -1,4 +1,4 @@
-# Email Snippets
+# Email Snippets :email:
 A collection of snippets I use for HTML email development.
 
 ## Installation
