@@ -1,15 +1,17 @@
 <snippet>
   <content><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//Dth XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/Dth/xhtml1-transitional.dth">
-<html lang="en">
+<html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
-  <meta charset="utf-8">
-  <!--[if !mso]><!--><meta http-equiv="x-ua-compatible" content="ie=edge"><!--<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
   <title></title>
   <meta name="viewport" content="initial-scale=1">
   <meta name="format-detection" content="telephone=no">
   <meta name="format-detection" content="date=no">
   <meta name="format-detection" content="address=no">
   <meta name="format-detection" content="email=no">
+  <meta name="x-apple-disable-message-reformatting">
+  <!--[if mso]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
   <style>
 
 /* webfonts */
@@ -53,15 +55,6 @@ a[x-apple-data-detectors]{
     overflow:hidden!important;
     width:auto!important;
   }
-  body[style]{padding:10px!important}
-}
-@media (max-width: 300px) {
-  [class="summary"] table,
-  [class="summary"] tbody,
-  [class="summary"] tr,
-  [class="summary"] th,
-  [class="summary"] div,
-  [class="summary"] img{width:100%!important}
 }
 
   </style>

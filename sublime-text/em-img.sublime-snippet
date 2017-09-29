@@ -5,6 +5,8 @@
      width="$2"
      style="border: 0;
             display: inline-block;
-            height: auto;">]]></content>
+            height: auto;
+            width: 100%;
+            max-width: $2px;">]]></content>
   <tabTrigger>em-img</tabTrigger>
 </snippet>
