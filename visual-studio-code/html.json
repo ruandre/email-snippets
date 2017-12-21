@@ -180,7 +180,7 @@
     "body": [
       "<th align=\"left\"\r",
       "    valign=\"top\"\r",
-      "    style=\"font-family: sans-serif;\r",
+      "    style=\"font-family: sans-serif, Roboto;\r",
       "           font-size: 16px;\r",
       "           font-weight: normal;\r",
       "           mso-line-height-rule: exactly;\r",
@@ -277,7 +277,7 @@
       "            display: inline-block;\r",
       "            height: auto;\r",
       "            width: 100%;\r",
-      "            max-width: $2px;\">\r",
+      "            max-width: $2px;\">\r"
     ],
     "description": "em-img"
   },
