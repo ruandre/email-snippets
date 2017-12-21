@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[<th align="left"
     valign="top"
-    style="font-family: sans-serif;
+    style="font-family: sans-serif, Roboto;
            font-size: 16px;
            font-weight: normal;
            mso-line-height-rule: exactly;
