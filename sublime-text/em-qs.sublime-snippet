@@ -6,10 +6,13 @@
   <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
   <title></title>
   <meta name="viewport" content="initial-scale=1">
-  <meta name="format-detection" content="telephone=no">
-  <meta name="format-detection" content="date=no">
-  <meta name="format-detection" content="address=no">
-  <meta name="format-detection" content="email=no">
+  <!-- Uncomment these if needed: -->
+  <!--
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+  -->
   <meta name="x-apple-disable-message-reformatting">
   <!--[if mso]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
   <style>
@@ -32,8 +35,8 @@ img{border:0!important;height:auto!important;line-height:100%!important;outline:
 /* https://blog.jmwhite.co.uk/2015/09/19/revealing-why-emails-appear-off-centre-in-android-4-4-kitkat */
 div{margin:0!important;padding:0!important}
 
-/* http://removebluelinks.com/ */
-a[x-apple-data-detectors]{
+/* wrap around auto-links and style */
+.nobluelink a{
   color:inherit!important;
   text-decoration:none!important;
   font-size:inherit!important;
@@ -86,7 +89,7 @@ a[x-apple-data-detectors]{
             overflow: hidden;
             visibility: hidden;">
 
-Preheader
+<!-- TODO: PREHEADER HERE -->
 
 </div>
 <center style="table-layout: fixed;
