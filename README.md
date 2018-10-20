@@ -28,7 +28,7 @@ This approach results in a fixed-width layout everywhere media queries *aren't* 
 
 ### Style:
 
-To make your code easier to read and maintain (e.g. changes via `Find -> Replace` and changes to the CSS), maintain precise negative space like this:
+To make your code easier to read and edit (e.g. modifying CSS, or changes via `Find -> Replace`), maintain precise negative space like this:
 
 ```html
 <table align="left"
